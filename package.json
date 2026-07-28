@@ -1,0 +1,17 @@
+{
+  "name": "@cinatra-ai/product-portfolio-matcher-skill",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "description": "Classifies an attached resource as a Product Portfolio / product-line description. Extracted from @cinatra-ai/product-portfolio-artifact (cinatra#2090).",
+  "type": "module",
+  "files": [
+    "skills"
+  ],
+  "cinatra": {
+    "apiVersion": "cinatra.ai/v1",
+    "kind": "skill",
+    "displayName": "Product Portfolio Matcher Skill",
+    "skillRole": "matcher",
+    "dependencies": []
+  }
+}
